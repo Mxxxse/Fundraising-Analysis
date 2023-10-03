@@ -9,7 +9,7 @@ In this project shapes, codes, amd pivot tabels were used in order to get the be
 ### Analysis of Outcomes Based on Launch Date
 This was a fun one to make it helped me organize the date and the money made the time frame of the Campaign.
 ### Analysis of Outcomes Based on Goals
-[Outcome by Goals](Resouces/Screenshot(1).png)
+[Outcome by Goals](Resouces/outcome_goal.png)
 This one was very helpful to make because this helps you get percentages of the money that was earned and if the goal was reached. 
 ### Challenges and Difficulties Encountered
 It was hard understanding the pivot table but I eventully got it and it helped me organize the funds.
