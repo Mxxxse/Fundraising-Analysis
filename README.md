@@ -7,7 +7,7 @@ To help understand the funds collected from the fundraising compaign.
 ## Analysis and Challenges
 In this project shapes, codes, amd pivot tabels were used in order to get the best outcome.  
 ### Analysis of Outcomes Based on Launch Date
-[Outcome by Launch Date](Resouces/outcome_goal.png)This was a fun one to make it helped me organize the date and the money made the time frame of the Campaign.
+[Outcome by Launch Date](Resouces/outcome_ld.png)This was a fun one to make it helped me organize the date and the money made the time frame of the Campaign.
 ### Analysis of Outcomes Based on Goals
 [Outcome by Goals](Resouces/outcome_goal.png)
 This one was very helpful to make because this helps you get percentages of the money that was earned and if the goal was reached. 
