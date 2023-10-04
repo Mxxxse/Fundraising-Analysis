@@ -2,7 +2,7 @@
 ## Overview of Project
 ![Outcome by Goals](Resouces/dashboard.png)
 
-In this projected I made an interactive dashboard to help understand the funds made from the fundraising campaign.
+In this projected I made an interactive dashboard to help understand the funds made from the fundraising campaign. 
 ### Purpose
 To help understand the funds collected from the fundraising compaign.
 
