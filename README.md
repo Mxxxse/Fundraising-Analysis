@@ -5,7 +5,7 @@ In this projected I made an interactive dashboard to help understand the funds m
 To help understand the funds collected from the fundraising compaign.
 
 ## Analysis and Challenges
-In this project shapes, codes, amd pivot tabels were used in order to get the best outcome.  
+In this project shapes, codes, and pivot tabels were used in order to get the best outcome.  
 ### Analysis of Outcomes Based on Launch Date
 [Outcome by Launch Date](Resouces/outcomes_ld.png)This was a fun one to make it helped me organize the date and the money made the time frame of the Campaign.
 ### Analysis of Outcomes Based on Goals
@@ -20,5 +20,6 @@ They are resourceful. They are organized
 - What can you conclude about the Outcomes based on Goals?
 They are resourceful. They are organized. 
 - What are some limitations of this dataset?
-It doesnt 
+It doesnt allow me to put in a map to make it interactive and cool. 
 - What are some other possible tables and/or graphs that we could create?
+[Sales by Country](Resouces/sales_country.png) [sales by Parent Category](Resouces/sales_pc.png)
