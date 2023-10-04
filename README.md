@@ -2,7 +2,7 @@
 ## Overview of Project
 ![Outcome by Goals](Resouces/dashboard.png)
 
-In this projected I made an interactive dashboard to help understand the funds made from the fundraising campaign. 
+In this projected I made an interactive dashboard to help understand the funds made from the fundraising campaign. I included some slicers so that you can get the exact data you want. To use the slicer you simply click on what data you want and boom you get your data. 
 ### Purpose
 To help understand the funds collected from the fundraising compaign.
 
@@ -11,7 +11,7 @@ In this project shapes, codes, and pivot tabels were used in order to get the be
 ### Analysis of Outcomes Based on Launch Date
 ![Outcome by Launch Date](Resouces/outcomes_ld.png)
 
-This was a fun one to make it helped me organize the date and the money made the time frame of the Campaign.
+This was a fun one to make it helped me organize the date and the money made the time frame of the Campaign. If you read the data you can see that in May thats when the most success was made. 
 ### Analysis of Outcomes Based on Goals
 ![Outcome by Goals](Resouces/outcome_goal.png)
 
