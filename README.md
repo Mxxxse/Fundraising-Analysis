@@ -3,6 +3,9 @@
 ![Outcome by Goals](Resouces/dashboard.png)
 
 In this projected I made an interactive dashboard to help understand the funds made from the fundraising campaign. I included some slicers so that you can get the exact data you want. To use the slicer you simply click on what data you want and boom you get your data. 
+
+You can see all analysis in the following document. 
+[Project Document](Kickstarter_Challenge.xlsx..xlsx)
 ### Purpose
 To help understand the funds collected from the fundraising compaign.
 
