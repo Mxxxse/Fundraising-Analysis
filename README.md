@@ -21,12 +21,16 @@ It was hard understanding the pivot table but I eventully got it and it helped m
 ## Results
 The Result of this was a very well organized Dashboard that was interactive which allowed the data to be specific and percise. It was hard to get where I am with this project but now ive gained the ability to make more that are similar to the one I currently made. 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 They are resourceful. They are organized. They help read and understand the Launch date money flow for people who need help analysing data. 
 - What can you conclude about the Outcomes based on Goals?
+
 They are resourceful. They are organized. They help read and understand the goal money flow for people who need help analysing data. 
 - What are some limitations of this dataset?
+
 It doesnt allow me to put in a map to make it interactive and cool. I wish they had more graphs to give a more detailed explanation of the data. 
 - What are some other possible tables and/or graphs that we could create?
+
 Here are some good examples to indclude in your dashboard. The first graph helps understand sales by country and which country made the most. In this case it's the US. In the second graph it helps you understand sales by Parent Category. In this case it was the technology category that made the most money.  
 
 ![Sales by Country](Resouces/sales_country.png) ![sales by Parent Category](Resouces/sales_pc.png)
