@@ -20,6 +20,6 @@ They are resourceful. They are organized. They help read and understand the Laun
 - What can you conclude about the Outcomes based on Goals?
 They are resourceful. They are organized. They help read and understand the goal money flow for people who need help analysing data. 
 - What are some limitations of this dataset?
-It doesnt allow me to put in a map to make it interactive and cool. 
+It doesnt allow me to put in a map to make it interactive and cool. I wish they had more graphs to give a more detailed explanation of the data. 
 - What are some other possible tables and/or graphs that we could create?
-[Sales by Country](Resouces/sales_country.png) [sales by Parent Category](Resouces/sales_pc.png)
+Here are some good examples tp indclude in your dashboard. [Sales by Country](Resouces/sales_country.png) [sales by Parent Category](Resouces/sales_pc.png)
